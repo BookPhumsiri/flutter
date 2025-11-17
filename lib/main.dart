@@ -6,7 +6,7 @@ void main(List<String> args) {
       home: Scaffold(
         backgroundColor: const Color.fromARGB(255, 175, 109, 109),
         appBar: AppBar(
-        title: const Text("AppBar"),
+        title: const Text("MEME CAT"),
         backgroundColor: const Color.fromARGB(255, 128, 131, 180),
       ),
         body: SingleChildScrollView(
